@@ -8,10 +8,8 @@ I am currently a Ph.D. student in the AML Lab at the School of Data Science, Cit
 
 #### Education  
 **Sun Yat-sen University**, Master of Engineering (2022 – 2025)  
-• GPA: XX/XX   
 
 **Sun Yat-sen University**, Bachelor of Engineering (2018 – 2022)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
 Large Language Model, Information Retrieval, Dialogue, Multi-modal Learning.

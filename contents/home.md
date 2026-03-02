@@ -7,6 +7,9 @@ I am currently pursuing a Ph.D. in the AML Lab at the School of Data Science, Ci
 <code>huyx55@mail2.sysu.edu.cn</code>
 
 #### Education  
+
+**City University of Hong Kong**, Phd of Data Science (2025 - Now)  
+
 **Sun Yat-sen University**, Master of Engineering (2022 – 2025)  
 
 **Sun Yat-sen University**, Bachelor of Engineering (2018 – 2022)  

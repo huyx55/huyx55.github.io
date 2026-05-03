@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 [![huyx55](https://img.shields.io/badge/huyx55-github-blue?logo=github)](https://github.com/huyx55)
 
 I am currently pursuing a Ph.D. in the AML Lab at the School of Data Science, City University of Hong Kong, under the supervision of Prof. Xiangyu Zhao. Previously, I obtained my Master's degree from Sun Yat-sen University, where I was advised by Prof. Chengming Li, with co-supervision from Min Yang and Prof. Xiaodan Liang. I also received my Bachelor's degree from Sun Yat-sen University.
@@ -41,3 +43,13 @@ Large Language Model, Information Retrieval, Dialogue, Multi-modal Learning.
 - First-class Scholarship, Sun Yat-sen University, 2023.
 - National Project on Undergraduate Innovation and Entrepreneurship, Sun Yat-sen University, 2021.
 - Second Prize, National College Students Mathematical Modeling Contest, Sun Yat-sen University, 2020.
+
+#### Selected Publications
+
+<ul>
+{% for post in site.publications reversed limit: 5 %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+[View all publications]({{ base_path }}/publications/)
